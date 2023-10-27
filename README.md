@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi I'm David 👋
+
+I am a 4th year Computer Science major passionate about full-stack development, data science, and cybersecurity! 
+
+📫 How to reach me: davhuang123@gmail.com
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dave-sh)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dave-sh/dave-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
