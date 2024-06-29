@@ -1,6 +1,6 @@
 ### Hi I'm David 👋
 
-I am a 4th year Computer Science major passionate about full-stack development, data science, and cybersecurity! 
+I am a 4th year Computer Science major passionate about cybersecurity and full-stack development! 
 
 📫 How to reach me: davhuang123@gmail.com
 
