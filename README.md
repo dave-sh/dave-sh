@@ -1,6 +1,8 @@
 ### Hi I'm David 👋
 
-I am a 4th year Computer Science major passionate about cybersecurity and full-stack development! 
+I am a recent graduate in Computer Science major passionate about cybersecurity! 
+
+🔭 Currently looking for full time roles and preparing for my Security+ certification.  
 
 📫 How to reach me: davhuang123@gmail.com
 
